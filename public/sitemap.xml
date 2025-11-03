@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <!-- Main pages -->
+  <url>
+    <loc>https://fluxkontextdev.app/</loc>
+    <lastmod>2025-01-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://fluxkontextdev.app/zh/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fluxkontextdev.app/en/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://fluxkontextdev.app/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fluxkontextdev.app/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://fluxkontextdev.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://fluxkontextdev.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://fluxkontextdev.app/ko/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://fluxkontextdev.app/es/"/>
+  </url>
+
+  <!-- Generate Image pages -->
+  <url>
+    <loc>https://fluxkontextdev.app/zh/generate-image</loc>
+    <lastmod>2025-01-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://fluxkontextdev.app/zh/generate-image"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://fluxkontextdev.app/en/generate-image"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://fluxkontextdev.app/de/generate-image"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fluxkontextdev.app/fr/generate-image"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://fluxkontextdev.app/it/generate-image"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://fluxkontextdev.app/ja/generate-image"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://fluxkontextdev.app/ko/generate-image"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://fluxkontextdev.app/es/generate-image"/>
+  </url>
+
+  <!-- Pricing pages -->
+  <url>
+    <loc>https://fluxkontextdev.app/zh/pricing</loc>
+    <lastmod>2025-01-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Blog pages -->
+  <url>
+    <loc>https://fluxkontextdev.app/zh/blog</loc>
+    <lastmod>2025-01-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Privacy and Terms -->
+  <url>
+    <loc>https://fluxkontextdev.app/zh/privacy</loc>
+    <lastmod>2025-01-27</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <url>
+    <loc>https://fluxkontextdev.app/zh/terms-of-service</loc>
+    <lastmod>2025-01-27</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+</urlset> 

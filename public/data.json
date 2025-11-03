@@ -1,0 +1,79 @@
+[
+  {
+    "url": "https://image.kurateart.com/house.png",
+    "alt": "house"
+  },
+  {
+    "url": "https://image.kurateart.com/lismore-castle.png",
+    "alt": "Lismore Castle"
+  },
+  {
+    "url": "https://image.kurateart.com/volcanic-eruption.png",
+    "alt": "Volcanic Eruption",
+    "image-list": [],
+    "source": "https://www.youtube.com/watch?v=u-OfbNwWjDc"
+  },
+  {
+    "url": "https://image.kurateart.com/jellyfish.gif",
+    "alt": "Jellyfish"
+  },
+  {
+    "url": "https://image.kurateart.com/snowflake.png",
+    "alt": "Snowflake",
+    "image-list": [
+      "https://image.kurateart.com/snowflake-2.png",
+      "https://image.kurateart.com/snowflake-3.png"
+    ],
+    "source": "https://www.youtube.com/watch?v=M1W2-lOl3NE"
+  },
+  {
+    "url": "https://image.kurateart.com/landwasser-viaduct.png",
+    "alt": "Landwasser Viaduct",
+    "location": "Switzerland",
+    "source": "https://www.youtube.com/watch?v=ADDFmfOeihU"
+  },
+  {
+    "url": "https://image.kurateart.com/Alps-in-Italy.png",
+    "alt": "Alps in Italy",
+    "location": "Italy",
+    "source": "https://www.youtube.com/watch?v=ADDFmfOeihU"
+  },
+  {
+    "url": "https://image.kurateart.com/Switzerland-Countryside.png",
+    "alt": "Switzerland Countryside",
+    "image-list": [
+      "https://image.kurateart.com/Switzerland-Countryside-2.png",
+      "https://image.kurateart.com/Switzerland-Countryside-3.png",
+      "https://image.kurateart.com/Switzerland-Countryside-4.png",
+      "https://image.kurateart.com/Switzerland-Countryside-5.png",
+      "https://image.kurateart.com/Switzerland-Countryside-6.png"
+    ],
+    "location": "Switzerland",
+    "source": "https://www.youtube.com/watch?v=rui3-PdBDTA"
+  },
+  {
+    "url": "https://image.kurateart.com/Ice-cone.png",
+    "alt": "Ice Cone",
+    "source": "https://www.youtube.com/watch?v=ADDFmfOeihU"
+  },
+  {
+    "url": "https://image.kurateart.com/Illinois-Fall.png",
+    "alt": "Illinois Fall",
+    "location": "Illinois",
+    "source": "https://www.youtube.com/watch?v=D0WWit5ZOS8"
+  },
+  {
+    "url": "https://image.kurateart.com/Waterfall-Rainbow.png",
+    "alt": "Waterfall Rainbow",
+    "source": "https://www.youtube.com/watch?v=C-zMnULqXiI"
+  },
+  {
+    "url": "https://image.kurateart.com/Soap-Bubble.png",
+    "alt": "Soap Bubble",
+    "image-list": [
+      "https://image.kurateart.com/Soap-Bubble-2.png",
+      "https://image.kurateart.com/Soap-Bubble-3.png"
+    ],
+    "source": "https://www.youtube.com/watch?v=RpVEwMdO1pg"
+  }
+]

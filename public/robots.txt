@@ -1,0 +1,39 @@
+User-agent: *
+Allow: /
+
+# Main sitemaps
+Sitemap: https://fluxkontextdev.app/sitemap.xml
+
+# Allow all search engines to crawl the site
+User-agent: *
+Disallow: /api/
+Disallow: /_next/
+Disallow: /admin/
+Disallow: /private/
+
+# Allow specific crawling for image generation content
+Allow: /*/generate-image
+Allow: /*/pricing
+Allow: /*/blog
+
+# Crawl delay to prevent overloading the server
+Crawl-delay: 1
+
+# Block specific bots if needed (uncomment if necessary)
+# User-agent: BadBot
+# Disallow: /
+
+# Google-specific settings
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+# Image crawling permissions
+User-agent: Googlebot-Image
+Allow: /
+Allow: /images/
+Allow: /public/
+
+# Additional sitemap references for different content types
+# Sitemap: https://fluxkontextdev.app/sitemap-images.xml
+# Sitemap: https://fluxkontextdev.app/sitemap-news.xml 
